@@ -1,1 +1,1 @@
-console.log("New commit to be done");
+console.log("Next commit to be done");
